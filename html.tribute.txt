@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tribute Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      margin: 0;
+    }
+
+    #main {
+      margin: 20px;
+    }
+
+    #image {
+      display: block;
+      margin: 0 auto;
+      max-width: 100%;
+      height: auto;
+    }
+
+    #quote {
+      font-style: italic;
+      margin-top: 20px;
+    }
+
+    #summary {
+      margin-top: 20px;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Tribute to Elon Musk</h1>
+  </header>
+  
+  <div id="main">
+    <img id="image" src="https://media.wired.com/photos/649c76576279e36472844646/master/w_2560%2Cc_limit/Elon-Musk-Vivatech-Business-1499013102.jpg" alt="elon musk">
+    <blockquote id="quote">
+     "When something is important enough, you do it even if the odds aren't in your favor."
+    </blockquote>
+    
+    <h2>Summary</h2>
+    <p id="summary">
+      Elon Reeve Musk ( born June 28, 1971) is a business magnate and investor. He is the founder, CEO, and chief engineer of SpaceX; angel investor, CEO, and product architect of Tesla, Inc.; owner, CTO, and chairman of Twitter; founder of the Boring Company and X Corp.; co-founder of Neuralink and OpenAI; and president of the philanthropic Musk Foundation. Musk is the wealthiest person in the world according to the Bloomberg Billionaires Index and Forbes's Real Time Billionaires list as of June 2023, primarily from his ownership stakes in Tesla and SpaceX, with an estimated net worth of around $225 billion according to Bloomberg and $230.2 billion according to Forbes.
+    </p>
+
+    <h2>Early Life</h2>
+    <p>
+      Elon Reeve Musk was born on June 28, 1971, in Pretoria, one of South Africa's capital cities Musk has British and Pennsylvania Dutch ancestry. His mother is Maye Musk ( Haldeman), a model and dietitian born in Saskatchewan, Canada, and raised in South Africa. His father, Errol Musk, is a South African electromechanical engineer, pilot, sailor, consultant, and property developer, who partly owned a Zambian emerald mine near Lake Tanganyika.Musk has a younger brother, Kimbal, and a younger sister, Tosca.
+
+Musk's family was wealthy during his youth.His father was elected to the Pretoria City Council as a representative of the anti-apartheid Progressive Party and has said that his children shared their father's dislike of apartheid.His maternal grandfather, Joshua Haldeman, was an American-born Canadian who took his family on record-breaking journeys to Africa and Australia in a single-engine Bellanca airplane. After his parents divorced in 1980, Musk chose to mostly live with his father.Musk regretted his decision and has become estranged from his father. He has a paternal half-sister and a half-brother.
+
+Maye Musk has said of her son that he "was shy and awkward at school" and "didn't have many friends". At age ten, he developed an interest in computing and video games, teaching himself how to program from the VIC-20 user manual. At age twelve, he sold his BASIC-based game Blastar to PC and Office Technology magazine for approximately $500
+    </p>
+
+    <h2>Contributions</h2>
+    <ul>
+      <li>Contribution 1
+          -zip2</li>
+      <li>Contribution 2
+          -x.com</li>
+      <li>Contribution 3
+        - space x</li>
+    </ul>
+
+    <h2>Legacy</h2>
+    <p>
+      Musk made $175.8 million when PayPal was sold to eBay in 2002. He was first listed on the Forbes Billionaires List in 2012, with a net worth of $2 billion.
+
+At the start of 2020, Musk had a net worth of $27 billion. By the end of the year his net worth had increased by $150 billion, mostly driven by his ownership of around 20% of Tesla stock. During this period, Musk's net worth was often volatile. For example, it dropped $16.3 billion in September, the largest single-day plunge in Bloomberg Billionaires Index's history.In November of that year, Musk passed Facebook co-founder Mark Zuckerberg to become the third-richest person in the world; a week later he passed Microsoft co-founder Bill Gates to become the second-richest]
+    </p>
+  </div>
+</body>
+</html>

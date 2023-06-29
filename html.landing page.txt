@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Landing Page</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Welcome to Ansar Landing Page</h1>
+    <p>Discover amazing products and services! With love </p>
+    <a href="#" class="btn">Get Started</a>
+  </section>
+
+  <section class="features">
+    <h2>Key Features</h2>
+    <div class="feature">
+      <i class="fas fa-mobile"></i>
+      <h3>Responsive Design</h3>
+      <p>Our website is fully responsive, ensuring a great experience on any device.</p>
+    </div>
+    <div class="feature">
+      <i class="fas fa-cogs"></i>
+      <h3>Customizable</h3>
+      <p>You can easily customize our products to match your needs and preferences.</p>
+    </div>
+    <div class="feature">
+      <i class="fas fa-support"></i>
+      <h3>24/7 Support</h3>
+      <p>We provide round-the-clock support to assist you whenever you need.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2023  Company. All rights reserved.</p>
+  </footer>
+</body>
+</html>

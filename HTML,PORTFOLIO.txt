@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Personal Portfolio</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h1>ANSAR PORTFOLIO</h1>
+    <img src="https://www.shutterstock.com/image-vector/love-coding-written-html-computer-600w-648032944.jpg" alt="Profile Picture">
+    <p>Beautiful Programming Love Codes
+“You are my semicolon; you are in everything I do.” “If I were a method, you must be my parameter because I will always need you.” “You are the JDK in my life. I won't compile without you.”.</p>
+  </section>
+
+  <section id="projects">
+    <h2>My Projects</h2>
+    <div class="project">
+      <img src="https://media.licdn.com/dms/image/C4E12AQG2pj4JkZG0Yw/article-cover_image-shrink_600_2000/0/1520115601955?e=2147483647&v=beta&t=15dJ3ErnJfshcaCF1pn0x_PZO4-UeIeYayT1JR_1HY8" alt="Project 1">
+      <h3>Project </h3>
+      <p>I AM PROGRAMER WITH NO EXPERIANCE BUT I LOVE THE CODING.</p>
+    </div>
+    
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <form>
+      <input type="text" placeholder="Your Name">
+      <input type="email" placeholder="Your Email">
+      <textarea placeholder="Your Message"></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 ANSAR  All rights reserved.</p>
+  </footer>
+</body>
+</html>
